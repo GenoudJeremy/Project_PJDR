@@ -1,0 +1,12 @@
+.main_block {
+  background: rgba(0, 0, 0, 0.75);
+  height: 2000px;
+}
+.u_main_block {
+
+  height: 95%
+}
+
+u_main_block * {
+  width: 100%;
+}
